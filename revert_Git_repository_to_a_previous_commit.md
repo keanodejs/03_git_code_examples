@@ -1,8 +1,8 @@
 #Revert Git repository to a previous commit
 
-´´´
+´´´´ javascript
 git log
-´´´
+´´´´
 
 Gets the following output:
 

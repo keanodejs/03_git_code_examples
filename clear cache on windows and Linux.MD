@@ -1,0 +1,8 @@
+# Clear cache on windows and Linux
+
+
+On windows and Linux machines you will as a default have to type in your password and maybe email, every time you commit something. To make the unnessesary feature go away you cab use the following commands. 
+
+	On Windows: 	git config --global credential.helper wincred
+
+	On Linux: 	git config --global credential.helper store

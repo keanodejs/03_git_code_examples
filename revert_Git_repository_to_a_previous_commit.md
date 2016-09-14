@@ -6,7 +6,7 @@ git log
 
 Gets the following output:
 
-````javascript
+````
 $ git log
 commit a867b4af366350be2e7c21b8de9cc6504678a61b`
 Author: Me <me@me.com>
@@ -32,4 +32,4 @@ Date:   Wed Nov 3 23:56:08 2010 -0400
 
 Yep, more blah blah.
 
-````
+```

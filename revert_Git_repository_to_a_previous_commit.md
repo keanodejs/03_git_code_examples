@@ -66,7 +66,3 @@ git add --all
 git commit -m "reset to 0d1d7fc32 "
 git push origin master
 ````
-
-This is somethin that should be deleted
-
-Junk number 2 inserted
